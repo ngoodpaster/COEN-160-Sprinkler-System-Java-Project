@@ -5,6 +5,9 @@ This Repository includes:
 - Source code for the project
 - Booth_Goodpaster_COEN160Project_Deliverable1.pdf: CRC Cards for major classes, Use-Case Diagrams, Use-Case Analysis
 
+Assignment Description: 
+- Implement a Garden Sprinkler System Simulator GUI application using the Eclipse IDE and Java swing toolkit.
+
 Functionality Requirements
 1. Program the system (with a weekly schedule) to start the sprinklers at designated times. 
 2. Enable and disable the system. 
